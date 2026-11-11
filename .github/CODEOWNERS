@@ -1,0 +1,7 @@
+# The project's primary and secondary maintainers (the same people as
+# maintainers[] in commonlayer.yaml), as a team of the commonlayer-org organization.
+# The team must exist and have write access to this repository.
+*                       @commonlayer-org/base-maintainers
+/commonlayer.yaml       @commonlayer-org/base-maintainers
+/.github/               @commonlayer-org/base-maintainers
+/security/              @commonlayer-org/base-maintainers
